@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="27px" viewBox="0 0 226 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>sa-east-1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFE4B2" offset="0%"></stop>
+            <stop stop-color="#F79800" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.0169613%" y1="100%" x2="68.0818257%" y2="3.3203125%" id="linearGradient-2">
+            <stop stop-color="#151443" offset="0%"></stop>
+            <stop stop-color="#6D80B2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="sa-east-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M1,4.99943992 L1,22.0005601 C1,24.2131329 2.78745893,26 4.99706666,26 L212.497605,26 C219.402703,26 225,20.4036174 225,13.5 C225,6.59542597 219.403112,1 212.497605,1 L4.99706666,1 C2.78936616,1 1,2.79033021 1,4.99943992 Z" id="CloudFormation-Launch-Stack-Button" stroke="#0058A5" stroke-width="2" fill="url(#linearGradient-1)"></path>
+        <g id="Group" transform="translate(202.000000, 4.000000)">
+            <circle id="Oval-1" fill="url(#linearGradient-2)" cx="9.5" cy="9.5" r="9.5"></circle>
+            <polygon id="Triangle-1" fill="#FFFFFF" transform="translate(10.500000, 9.500000) rotate(90.000000) translate(-10.500000, -9.500000) " points="10.5 7 15 12 6 12"></polygon>
+        </g>
+        <text id="Region-Name" font-family="AmazonEmber-Bold, Amazon Ember" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="17" y="19">South America (São Paulo)</tspan>
+        </text>
+    </g>
+</svg>
