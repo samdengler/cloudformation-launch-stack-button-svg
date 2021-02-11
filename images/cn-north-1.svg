@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="226px" height="27px" viewBox="0 0 226 27" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cn-north-1</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFE4B2" offset="0%"></stop>
+            <stop stop-color="#F79800" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="45.0169613%" y1="100%" x2="68.0818257%" y2="3.3203125%" id="linearGradient-2">
+            <stop stop-color="#151443" offset="0%"></stop>
+            <stop stop-color="#6D80B2" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="cn-north-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M212.497605,1 C215.898289,1 218.981893,2.35706382 221.235847,4.55945553 C223.492344,6.76433126 224.917471,9.81637348 224.996514,13.2023744 C224.99508,16.7851188 223.610747,19.9748135 221.363066,22.274277 C219.100047,24.5894307 215.963578,26 212.497605,26 L212.497605,26 L4.99706666,26 C3.89274208,26 2.89289833,25.5533061 2.16945101,24.8295151 C1.44662933,24.1063502 1,23.1067408 1,22.0005601 L1,22.0005601 L1,4.99943992 C1,3.8949216 1.44735328,2.89493968 2.1708219,2.17112747 C2.89405548,1.4475504 3.89322601,1 4.99706666,1 L4.99706666,1 Z" id="CloudFormation-Launch-Stack-Button" stroke="#0058A5" stroke-width="2" fill="url(#linearGradient-1)"></path>
+        <g id="Group" transform="translate(202.000000, 4.000000)">
+            <circle id="Oval-1" fill="url(#linearGradient-2)" cx="9.5" cy="9.5" r="9.5"></circle>
+            <polygon id="Triangle-1" fill="#FFFFFF" transform="translate(10.500000, 9.500000) rotate(90.000000) translate(-10.500000, -9.500000) " points="10.5 7 15 12 6 12"></polygon>
+        </g>
+        <text id="Region-Name" font-family="AmazonEmber-Bold, Amazon Ember" font-size="14" font-weight="bold" fill="#000000">
+            <tspan x="17" y="19">China (Beijing)</tspan>
+        </text>
+    </g>
+</svg>

@@ -109,6 +109,16 @@ AWS Region images and associated Markdown are available below:
 [![Launch Stack](https://samdengler.github.io/cloudformation-launch-stack-button-svg/images/sa-east-1.svg)](https://console.aws.amazon.com/cloudformation/home?region=sa-east-1#/stacks/create/review?stackName=buildkite&templateURL=https://s3.amazonaws.com/my-great-stack.json)
 ```
 
+## Contributing
+
+To add a region: 
+
+1. Clone the repo and modify the [sketch](sketch/Launch-Stack.sketch) file.
+2. Export as `SVG` to the `images/` directory
+3. Create a Pull Request
+
+See current [AWS Region Names](https://docs.aws.amazon.com/general/latest/gr/rande.html#ec2_region)
+
 ## Source
 
 [Launch-Stack.sketch](sketch/Launch-Stack.sketch) (Sketch 3)
